@@ -210,9 +210,23 @@
 						<th>-$30.00</th>
 					</tr>
 				</table>
+				<a href="#" style="float:right">View full Account Activity</a>
 			</div>
 		</div>
 	</div>
+</div>
+<div class="container:fluid" style="background-color:rgb(245,245,245)">
+	<br>
+	<div style="text-align:center">
+		<ul style="list-style:none">
+			<li><a href="#" style="color:rgb(72,83,93);font-size:15px;font-weight:bold"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> Find ATM/Branch</a></li>
+			<li><a href="#">Online Banking & Bill Pay Guarantee</a> | <a href="#">Service Agreement</a> | <a href="#">Private Policy</a> | <a href="#">Online Security</a></li>
+			<li>© Copyright 2017. The Devonshire Lending, Inc. All Rights Reserved.</li>
+			<li><a href="#">Need Help? View our Contact Numbers and Hours of Operation</a></li>
+		</ul>
+	</div>
+	<br>
+	<br>
 </div>
 </body>
 </html>
