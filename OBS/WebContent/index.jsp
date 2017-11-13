@@ -53,6 +53,21 @@
                 </ul>
 		</ul>
 	  </li>
+	  <li class="dropdown">
+	    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
+	      Pay Bill <span class="caret"></span>
+	    </a>
+		<ul class="dropdown-menu">
+                <ul class='list-inline'>
+                    <li><a href="#" id="">Pay bill</a>
+                    </li>
+                    <li><a href="#" id="">Manage bill</a>
+                    </li>
+                    <li><a href="#" id="">Payment Activity</a>
+                    </li>
+                </ul>
+		</ul>
+	  </li>
 	  <li><a href="#">Deposit</a></li>
 	  <li class="dropdown">
 	    <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
