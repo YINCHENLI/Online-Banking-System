@@ -160,8 +160,6 @@
 	</ul>
 </div>
 
- 
-
 <!--Auto Application Form Starts here  -->
 
 <div class="container-fluid" style="background-color:rgb(233,229,220)">
